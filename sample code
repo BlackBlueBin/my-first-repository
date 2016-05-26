@@ -1,4 +1,5 @@
 int a=5;
 int b=6;
 int c;
+writeline c = a+ b;
 
